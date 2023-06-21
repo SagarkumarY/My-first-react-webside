@@ -1,0 +1,21 @@
+.container1{
+    margin:  auto;
+    background-color: rgb(38, 11, 64);
+    padding: 10px 20px;
+}
+
+.container1 h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+
+}
+
+.container1 p{
+    font-size: 20px;
+    color: white;
+    padding: 5px 0;
+    line-height: 1;
+    
+}
